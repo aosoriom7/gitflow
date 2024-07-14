@@ -1,0 +1,6 @@
+#References
+# https://medium.com/counterarts/setting-up-gitignore-files-c468eacceaa5
+
+# Ignore __pycache__ directory
+__pycache__/
+env/
