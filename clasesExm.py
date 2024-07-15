@@ -1,9 +1,10 @@
+import numpy as np
+
 # Funcion para sumar dos numeros
 def suma(a,b):
     return a+b
 
-
-# Comentario actualizado: Funcion para calcular la resta dos nums 
+# Funcion para restar dos numeros
 def resta(a,b):
     return b-a
 
@@ -22,3 +23,15 @@ def divEntera(a,b):
 # Funcion para residuo de la division de dos numeros
 def divResiduo(a,b):
     return b%a
+
+# Funcion para calcular el cuadrado de un numero
+def cuadrado(a):
+    return a**2
+
+ # Funcion para calcular la raiz de un numero
+def raizcuad(a):
+    return np.sqrt(a)
+
+ # Funcion para calcular el logaritmo natural de un numero
+def logaritmo(a):
+    return np.log(a)
