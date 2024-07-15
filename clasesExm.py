@@ -9,3 +9,8 @@ def resta(a,b):
 # Funcion para multiplicar dos numeros
 def multiplicar(a,b):
     return a*b
+
+# Funcion para multiplicar dos numeros
+def dividir(a,b):
+    return b/a
+
