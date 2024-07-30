@@ -1,0 +1,1 @@
+Es un proyecto paso a paso publicado en notion para ver los comandos de git y un buen workflow
